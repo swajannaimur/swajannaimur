@@ -50,5 +50,5 @@ Currently exploring modern React frameworks and continuously improving my JavaSc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swajannaimur&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swajannaimur&theme=radical)
 
