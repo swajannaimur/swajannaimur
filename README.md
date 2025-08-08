@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swajan Naimur
 
-![Banner Image](https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1350&q=80)
+<img src="https://github.com/swajannaimur/swajannaimur/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" alt="Mokkapps GitHub README header image">
 
 ## 👨‍💻 Frontend Web Developer
 
